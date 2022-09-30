@@ -1,4 +1,4 @@
-### もしもし!
+### もしもし! トムヤムとエドさん大好き.
 
 ![Rosclaritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosclaritha&count_private=true&theme=tokyonight)
 
