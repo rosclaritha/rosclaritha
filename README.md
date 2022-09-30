@@ -1,6 +1,6 @@
 ### もしもし!
 
-![Rosclaritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosclaritha&count_private=true&theme=panda)
+![Rosclaritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosclaritha&count_private=true&theme=tokyonight)
 
 <!--
 **rosclaritha/rosclaritha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
