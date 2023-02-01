@@ -1,6 +1,7 @@
 ### もしもし! トムヤムとエドさん大好き.
 
-![Rosclaritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosclaritha&count_private=true&theme=tokyonight)
+<!-- ![Rosclaritha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosclaritha&count_private=true&theme=tokyonight) -->
+![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosclaritha&show_icons=true&theme=radical)
 
 <!--
 **rosclaritha/rosclaritha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
